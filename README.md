@@ -50,7 +50,7 @@ VoiceWhisper is a real-time, multilingual voice conversation interface that conn
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/voicewhisper.git
+   git clone https://github.com/klpragna-04/voicewhisper.git
    cd voicewhisper
    ```
 
