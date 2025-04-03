@@ -5,10 +5,6 @@
 ![Python](https://img.shields.io/badge/Python-3.7%2B-yellow)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-![VoiceWhisper Demo](images/output1.png)
-![VoiceWhisper Demo](images/output2.png)
-
-
 ## 🌟 Overview
 
 VoiceWhisper is a real-time, multilingual voice conversation interface that connects users with AI through natural speech. This application enables fluid, engaging conversations in multiple languages with high-quality voice synthesis and intelligent responses.
@@ -49,6 +45,15 @@ VoiceWhisper is a real-time, multilingual voice conversation interface that conn
 - API keys:
   - Google Gemini API key
   - ElevenLabs API key(s)
+
+
+## 👩🏻‍💻Output
+
+![VoiceWhisper Demo](images/output1.png)
+![VoiceWhisper Demo](images/output2.png)
+
+
+
 
 ## 🔧 Installation
 
